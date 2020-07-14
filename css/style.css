@@ -1,0 +1,104 @@
+
+
+.header-bg {
+    background-image: url('../images/mohammadhosein-mohebbi-L7kUjDr1EC4-unsplash 1.png');
+    background-position: center;
+    background-size: cover;
+    max-height: 768px;
+    height: 100%;
+}
+
+.header-bg .header-overlay{
+    background: rgba(0, 0, 0, 0.79);
+    max-height: 768px;
+    height: 100%;
+}
+
+.header-bg div div {
+    max-width: 1238.65px;
+}
+
+.header-content div h2 {
+ font-size: 30px;
+}
+
+.header-content div h3 {
+    font-size: 30px;
+    color: #0099FF;
+}
+
+.header-content div p {
+    font-size: 17px;
+}
+
+/* section {
+    height: 1078px;
+} */
+
+.how-it-work {
+    max-width: 1238.65px;
+}
+
+.card-container {
+    width: 321px;
+    height: 321px;
+}
+
+.design-show-container {
+    background-image: url('../images/image 1.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.design-show-overlay {
+    background-color: rgba(0, 0, 0, 0.75);
+    height: 871px;
+    
+}
+
+#design-show-container {
+    height: 871px;
+}
+
+.count-down-container {
+    height: 300px;
+    width: 1238.65px;
+}
+
+.count-down {
+    height: 300px;
+    width: 1238.65px;
+    top: 10rem;
+    z-index: 4;
+}
+
+.count-down-item {
+   
+}
+
+.form-container {
+    height: 632px;
+    background-color: #0099FF;
+}
+
+.email-form {
+    max-width: 880px;
+
+}
+
+#email-form {
+    padding: 2rem 0
+}
+   
+.input-group-text  {
+    background-color:  black;
+}
+
+.header-mobile-img {
+    right: 10px;
+    bottom: -140px;
+}
+
+.brand-text-color {
+    color: #0099FF;
+}
